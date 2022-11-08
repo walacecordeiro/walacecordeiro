@@ -12,7 +12,7 @@
   <img align="center" alt="Walace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Walace-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Walace-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Walace-pic" height="150" style="border-radius:50px;" src="./giphy.gif?width=676&height=676">
+  <img align="right" alt="Walace-pic" height="150" style="border-radius:50px;" src="./eu.gif?width=676&height=676">
 </div>
   
   ##
