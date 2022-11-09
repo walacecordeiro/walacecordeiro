@@ -1,11 +1,11 @@
-## Olá, sou o Walace Cordeiro, é um prazer recebê-lo(a)!
+## Bem vindo(a) a Minha Dashboard
 <div align="center">
   <a href="https://github.com/walacecordeiro">
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacecordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ## Estudando as tecnologias
+  ## Principais tecnologias(estudando)
 <div style="display: inline_block;">
   <img align="center" alt="Walace-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   HTML5
@@ -22,7 +22,7 @@
   <img align="right" alt="Walace-pic" height="150" style="border-radius:50px;" src="./eu.gif?width=676&height=676">
 </div><br>
   
-  ## Minhas redes sociais
+  ## Redes sociais
  
 <div> 
   <a href="https://instagram.com/walacecordeirodossantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
