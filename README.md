@@ -8,15 +8,17 @@
   ## Estudando as tecnologias
 <div style="display: inline_block;">
   <img align="center" alt="Walace-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
+  HTML5
   <img align="center" alt="Walace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  CSS3
   <img align="center" alt="Walace-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  JAVASCRIPT
   <img align="center" alt="Walace-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
+  TYPESCRIPT
   <img align="center" alt="Walace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+  REACT
+  <img align="center" alt="Walace-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   NODEJS
   <img align="right" alt="Walace-pic" height="150" style="border-radius:50px;" src="./eu.gif?width=676&height=676">
 </div><br>
   
