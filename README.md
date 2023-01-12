@@ -5,6 +5,8 @@
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacecordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+  ![Snake animation](https://github.com/walacecordeiro/walacecordeiro/blob/output/github-contribution-grid-snake.svg)
+  
   ## Principais tecnologias(estudando)
 <div style="display: inline_block;">
   <img align="center" alt="Walace-HTML" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,7 +28,4 @@
  
 <div> 
   <a href = "mailto:walacecordeirodossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/walacecordeiro/walacecordeiro/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
