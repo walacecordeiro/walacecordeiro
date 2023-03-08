@@ -1,7 +1,7 @@
 ### Hi there, I'm Walace Cordeiro
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
 <div align="center">
   <a href="https://github.com/walacecordeiro">
