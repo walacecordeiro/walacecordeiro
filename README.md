@@ -1,6 +1,5 @@
 ### Olá, meu nome é Walace Cordeiro.
 
-#### Sobre
 Sou um desenvolvedor web. E estou estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/).
 
 <div align="center">
@@ -8,8 +7,6 @@ Sou um desenvolvedor web. E estou estudando desenvolvimento web na [Rocketseat](
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacecordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-  ![Snake animation](https://github.com/walacecordeiro/walacecordeiro/blob/output/github-contribution-grid-snake.svg)
   
   ### Principais tecnologias (estudando)
 <div style="display: inline_block;">
