@@ -1,6 +1,6 @@
 ### Olá, meu nome é Walace Cordeiro.
 
-Sou um desenvolvedor web. E estou estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/).
+Sou um desenvolvedor web. E estou estudando desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/walacecordeiro">
