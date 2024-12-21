@@ -40,11 +40,14 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Walace Cordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&theme=dracula&show_icons=true" />
+<a href="https://github.com/walacecordeiro" title="Perfil do Walace Cordeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&theme=radical&show_icons=true" />
+  
+  [![walacecordeiro](https://github-readme-stats.vercel.app/api/top-langs/?username=walacecordeiro&hide=html,css&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![](https://komarev.com/ghpvc/?username=walacecordeiro&color=006bed)
 </a>
 
-![](https://komarev.com/ghpvc/?username=walacecordeiro&color=006bed)
 
 ## Onde me encontrar
 
