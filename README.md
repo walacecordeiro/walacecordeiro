@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=walacecordeiro&color=006bed)
 
 ## Sobre mim
 
@@ -42,12 +41,14 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/iuricode" title="Perfil do Walace Cordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&theme=dracula&show_icons=true" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=walacecordeiro&color=006bed)
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walace-cordeiro-dos-santos/)](https://www.linkedin.com/in/walace-cordeiro-dos-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walacecordeirodossantos@gmail.com)](mailto:walacecordeirodossantos@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/walacecordeiro?label=follow&style=social)](https://github.com/walacecordeiro)
