@@ -26,11 +26,10 @@
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
-**DevOps**
+**Versionamento**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de desenvolvimento**
 
@@ -42,7 +41,7 @@
 <a href="https://github.com/walacecordeiro" title="Perfil do Walace Cordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&theme=radical&show_icons=true" />
   
-  [![walacecordeiro](https://github-readme-stats.vercel.app/api/top-langs/?username=walacecordeiro&hide=html,css&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![walacecordeiro](https://github-readme-stats.vercel.app/api/top-langs/?username=walacecordeiro&hide=html,css,powershell,batchfile&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ![](https://komarev.com/ghpvc/?username=walacecordeiro&color=006bed)
 </a>
