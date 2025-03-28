@@ -2,9 +2,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Desenvolvimento Fullstack na Transfero Academy e Santander Tech.
-- 💼 Trabalhando como desenvolvedor na Transfero Group.
-- 🌱 Aprendendo mais sobre desenvolvimento blockchain e mercado financeiro.
+- 🎓 Estudando Desenvolvimento Fullstack na Transfero Academy e Data Science no Santander Tech.
+- 🌱 Estudando mais sobre web3, desenvolvimento blockchain e mercado financeiro.
 
 ## Minhas Skills
 
