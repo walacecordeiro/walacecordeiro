@@ -18,30 +18,43 @@ Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao lon
 
 <br/>
 
-## Tecnologias que tenho mais familiaridade atualmente
+<details align="center">
+  <summary>
+    <samp>
+      <b>Mais informações</b>
+    </samp>
+  </summary>
 
-**Linguagens / Bibliotecas / Frameworks**
+<div align="start">
+  
+  ## Tecnologias que tenho mais familiaridade atualmente
+  
+  **Linguagens / Bibliotecas / Frameworks**
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  
+  **CSS e pré-processadores**
+  
+  ![Tailwind css](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  
+  
+  **Versionamento**
+  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+  **Ferramentas de desenvolvimento / Utilidades**
+  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  </div>
 
-**CSS e pré-processadores**
-
-![Tailwind css](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-
-
-**Versionamento**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento / Utilidades**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B56C2&section=footer&textBg=false&reversal=true"/>
