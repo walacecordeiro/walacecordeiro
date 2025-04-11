@@ -30,7 +30,6 @@ Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao lon
   **CSS e pré-processadores**
   
   ![Tailwind css](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   
   
