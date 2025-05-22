@@ -5,8 +5,8 @@
 Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao longo da minha trajetória, tive a oportunidade de estudar e trabalhar com diversas tecnologias, sempre buscando crescer como desenvolvedor.
 
 ### Atualmente estou:
-#### 🎓 Estudando desenvolvimento multiplataforma
-  - `C#`, `.NET`, `Blazor`, e `Blazor Hybrid`.
+#### 🎓 Aperfeiçoando desenvolvimento Web
+  - `Angular`, e `WebAssembly (Wasm)`.
 #### 🎓 Blockchain
   - Aprendendo sobre Web3 e contratos inteligentes usando `Solidity`, também com Senac e Transfero Academy.
 
