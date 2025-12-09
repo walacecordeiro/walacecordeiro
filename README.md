@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4B56C2&section=header&textBg=false&reversal=true"/>
+
 ## Bem-vindo(a) ao meu mundo! 👋
 
 Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao longo da minha trajetória, tive a oportunidade de estudar e trabalhar com diversas tecnologias, sempre buscando crescer como desenvolvedor.
