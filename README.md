@@ -1,30 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4B56C2&section=header&textBg=false&reversal=true"/>
-
-<div align="center">
-  <samp>
-    <b>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=4F57C3&background=C6FF0000&center=true&vCenter=true&width=300&height=16&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Walace;Atualmente+Dev+Front-End;Aperfei%C3%A7oando+para+FullStack;Seja+muito+bem+vindo(a)" alt="Typing SVG" /></a>
-      <br/>
-      <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwalacecordeiro&s=21&c=ff3860&bg=00000000&no=2&ff=digi&tb=Visitas+no+meu+perfil%3A+&ta=" alt="visits">
-      <br/>
-      <br/>
-    </b>
-  </samp>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=walacecordeiro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walacecordeiro&locale=pt-br&hide_title=false&layout=normal&card_width=320&langs_count=4&hide_language=html&theme=tokyonight" height="150" alt="languages graph"  />
-  </div>
-</div>
-<details align="center">
-  <summary>
-    <samp>
-      <b style="font-size: 16px;">Mais informações</b>
-    </samp>
-  </summary>
-
-  <div align="start">
-
 ## Bem-vindo(a) ao meu mundo! 👋
 
 Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao longo da minha trajetória, tive a oportunidade de estudar e trabalhar com diversas tecnologias, sempre buscando crescer como desenvolvedor.
