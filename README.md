@@ -8,7 +8,7 @@ Meu nome é Walace Cordeiro e sou apaixonado por front-end e gestão de tráfego
 
 #### 🎓 Estudando Engenharia de Front-end
 
-- `NextJs` com `Typescript` pensando em performanca, segurança e escalabilidade.
+- `NextJs` com `Typescript` pensando em performance, segurança e escalabilidade.
 
 #### 🎓 Estudando Gestão de Tráfego
 
