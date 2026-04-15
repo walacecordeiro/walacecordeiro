@@ -2,17 +2,17 @@
 
 ## Bem-vindo(a) ao meu mundo! 👋
 
-Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao longo da minha trajetória, tive a oportunidade de estudar e trabalhar com diversas tecnologias, sempre buscando crescer como desenvolvedor.
+Meu nome é Walace Cordeiro e sou apaixonado por front-end e gestão de tráfego. Ao longo da minha trajetória, tive a oportunidade de estudar e trabalhar com algumas plataformas que me permitem testar as estruturas que construo, estou sempre buscando crescer como desenvolvedor e empreendedor.
 
 ### Atualmente estou:
 
-#### 🎓 Estudando desenvolvimento web
+#### 🎓 Estudando Engenharia de Front-end
 
-- `Python` e `Django` no Senac em parceria com a Transfero Academy.
+- `NextJs` com `Typescript` pensando em performanca, segurança e escalabilidade.
 
-#### 🎓 Estudando Blockchain
+#### 🎓 Estudando Gestão de Tráfego
 
-- Aprendendo sobre Web3 e contratos inteligentes usando `Solidity`, também com Senac e Transfero Academy.
+- Aprendendo `Google Ads` e `Facebook Ads` para complementar e testar resultados em minhas páginas Web.
 
 ### Onde me encontrar:
 
@@ -43,6 +43,9 @@ Meu nome é Walace Cordeiro e sou apaixonado por tecnologia e inovação. Ao lon
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![google-ads](https://img.shields.io/badge/-Google%20Ads-333333?style=flat&logo=google-ads)
+
+
 
   </div>
 </details>
